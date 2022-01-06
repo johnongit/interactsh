@@ -17,8 +17,8 @@ import (
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/gologger/levels"
 	"github.com/johnongit/interactsh/pkg/server"
-	"github.com/johnongit/interactsh/pkg/server/acme"
-	"github.com/johnongit/interactsh/pkg/storage"
+	"github.com/projectdiscovery/interactsh/pkg/server/acme"
+	"github.com/projectdiscovery/interactsh/pkg/storage"
 )
 
 func main() {
